@@ -1,2 +1,2 @@
 # Figma Design
-My First Design
+My First Figma Design
